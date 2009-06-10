@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Jorge
-version:            0.02
+version:            0.03
 abstract:           ORM Made simple.
 author:
     - Julián Porta <julian.porta@gmail.com>
