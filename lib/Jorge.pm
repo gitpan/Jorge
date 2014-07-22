@@ -9,11 +9,11 @@ Jorge - ORM Made simple.
 
 =head1 VERSION
 
-Version 0.03
+Version 0.04
 
 =cut
 
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 
 =head1 SYNOPSIS
 
@@ -391,11 +391,11 @@ your objects.
 
 =head1 AUTHORS
 
-Mondongo, C<< <mondongo at gmail.com> >> Did the important job and started 
-this beauty.
+Joaquín Pérez, C<< <mondongo at gmail.com> >> had the original idea after
+ being frustrated by Catalyst and Tangram.
 
 Julian Porta, C<< <julian.porta at gmail.com> >> took the code and tried 
-to make it harder, better, faster, stronger.
+to make it harder, better, faster, stronger. And packaged it.
 
 =head1 BUGS
 
@@ -442,7 +442,7 @@ L<http://search.cpan.org/dist/Jorge/>
 
 =head1 ACKNOWLEDGEMENTS
 
-Mondongo C<< <mondongo at gmail.com> >> For starting this.
+Joaquín Pérez C<< <mondongo at gmail.com> >> For starting this.
 
 =head1 COPYRIGHT & LICENSE
 
