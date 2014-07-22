@@ -391,7 +391,7 @@ your objects.
 
 =head1 AUTHORS
 
-Joaquín Pérez, C<< <mondongo at gmail.com> >> had the original idea after
+Joaquin Perez, C<< <mondongo at gmail.com> >> had the original idea after
  being frustrated by Catalyst and Tangram.
 
 Julian Porta, C<< <julian.porta at gmail.com> >> took the code and tried 
@@ -442,7 +442,7 @@ L<http://search.cpan.org/dist/Jorge/>
 
 =head1 ACKNOWLEDGEMENTS
 
-Joaquín Pérez C<< <mondongo at gmail.com> >> For starting this.
+Joaquin Perez C<< <mondongo at gmail.com> >> For starting this.
 
 =head1 COPYRIGHT & LICENSE
 
